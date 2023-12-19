@@ -17,8 +17,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Windows 10</b> (21H2)
 
 <h2>List of Prerequisites</h2>
+Internet Information Services
 
 
 <h2>Installation Steps</h2>
+Setup and configure IIS doing the following:
+Right Click the start menu and click "Run"
+![image](https://github.com/JeffreyCummings96/osticket-prereqs/assets/153889746/585b7e95-2da5-4ab0-9d32-c4b659c620fa)
 
 <p>
