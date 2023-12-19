@@ -23,5 +23,6 @@ Internet Information Services
 <h2>Installation Steps</h2>
 Setup and configure IIS doing the following:
 Right Click the start menu and click "Run"
-![image](https://github.com/JeffreyCummings96/osticket-prereqs/assets/153889746/e1a98817-a254-493b-8a4a-5e4b46b210db)
+<img src=https://imgur.com/a/LFP0oh8
+
  <p>
