@@ -48,6 +48,6 @@ check Internet Information Services -> World Wide Web Services -> CGI
 On Windows Features locate "Common HTTP Features" make sure every box is checked off and then click "Ok"
 </p>
 <p>
-After completing the above steps IIS will begin installing, IIS is a web server that OsTicket Runs on.
+After completing the above steps IIS will begin installing, IIS is a web server that osTicket runs on.
 </p>
 <br />
