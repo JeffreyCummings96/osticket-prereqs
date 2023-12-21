@@ -91,5 +91,13 @@ install c++ Redistributable
   <img src=https://i.imgur.com/fkKhFQh.png/> 
 </p>
 <p>
-  Next Install MySQL Server -> Choose Setup Type -> Typical
+  Next Install MySQL Server -> Choose Setup Type -> Typical 
+</p>
+<p>
+ <img src=https://i.imgur.com/UKKwsgR.png/>   
+</p>
+<p>
+  Next configure MySQL Configuartion Wizard -> Standard Configuration -> Configure Root Password -> execute
+  
+<b>This Configuration is setting up a database on the computer because osTicket needs a database to store tickets onto.</b>
 </p>
