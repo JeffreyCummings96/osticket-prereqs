@@ -63,3 +63,12 @@ After completing the above steps IIS will begin installing, IIS is a web server 
 To test the connection go to a web browser and type 127.0.0.1 the page should look like the image above that shows the default IIS web page.
 </p>
 <br />
+<p>
+<img src=https://i.imgur.com/RlEKanC.png/>
+</p>
+<p>
+  Next is to install PHP Manager for IIS
+</p>
+<p> 
+<img src=https://i.imgur.com/zYjUOR9.png/>
+</p>
