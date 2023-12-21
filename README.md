@@ -127,16 +127,38 @@ Go to the start searchbar type in "IIS" right click and run as admin in order to
 On the right, click “Browse *:80”
 </p>
 <p>
-  <img src=https://imgur.com/tTGX4ax/> 
+  <img src=https://i.imgur.com/tTGX4ax.png/> 
 </p>
 <p>
   some extensions are not enabled
 Go back to IIS, sites -> Default -> osTicket
 Double-click PHP Manager
 Click “Enable or disable an extension”
-Enable: php_imap.dll
+<b>Enable: php_imap.dll
 Enable: php_intl.dll
 Enable: php_opcache.dll
-Refresh the osTicket site in your browse.
+Refresh the osTicket site in your browse.</b>
+</p>
+<p>
+ <img src=https://i.imgur.com/hwuKDVD.png/> 
+  Rename: ost-config.php
+From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
+To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
 
+  Assign Permissions: ost-config.php
+Disable inheritance -> Remove All
+New Permissions -> <b>Everyone</b> -> All
+
+</p>
+<p>
+  <img src= https://i.imgur.com/3tFrWEC.png/>
+</p>
+<p>
+  Setup HeidiSQL
+</p>
+<p>
+  <img src=https://i.imgur.com/weG8Oqn.png/>
+</p>
+<p>
+  HeidiSQL Session manager user: root -> password: Password1 -> open
 </p>
