@@ -113,3 +113,30 @@ Go to the start searchbar type in "IIS" right click and run as admin in order to
 <p>
   Double Click PHP Manager -> Register New PHP version -> Select the PHP folder in C: Drive  -> PHP Cgi -> Ok
 </p>
+<p>
+<img src=https://i.imgur.com/z3kZlMZ.png/>  
+</p>
+<p>
+  Extract and copy “upload” folder to c:\inetpub\wwwroot -> Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”
+</p>
+<p>
+  <img src=https://i.imgur.com/4p5fu3v.png/>  
+</p>
+<p>
+  Go to sites -> Default -> osTicket
+On the right, click “Browse *:80”
+</p>
+<p>
+  <img src=https://imgur.com/tTGX4ax/> 
+</p>
+<p>
+  some extensions are not enabled
+Go back to IIS, sites -> Default -> osTicket
+Double-click PHP Manager
+Click “Enable or disable an extension”
+Enable: php_imap.dll
+Enable: php_intl.dll
+Enable: php_opcache.dll
+Refresh the osTicket site in your browse.
+
+</p>
