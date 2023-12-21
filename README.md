@@ -21,7 +21,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - IIS
 - PHP Manager
-- Item 3
+- IIS Rewrite Module
 - Item 4
 - Item 5
 
@@ -71,4 +71,13 @@ To test the connection go to a web browser and type 127.0.0.1 the page should lo
 </p>
 <p> 
 <img src=https://i.imgur.com/zYjUOR9.png/>
+</p>
+<p>
+ Once PHP Manager is Downloaded the next step is to install  IIS Rewrite Module
+</p>
+<p>
+<img src=https://i.imgur.com/jiQT0v8.png/>
+</p>
+<p>
+  Create the directory C:\PHP on local hard drive 
 </p>
