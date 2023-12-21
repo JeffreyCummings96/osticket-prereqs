@@ -160,5 +160,23 @@ New Permissions -> <b>Everyone</b> -> All
   <img src=https://i.imgur.com/weG8Oqn.png/>
 </p>
 <p>
-  HeidiSQL Session manager user: root -> password: Password1 -> open
+  HeidiSQL Session manager user: root -> password: Password1 -> open -> create database called "osTicket"
+</p>
+<p>
+<img src=https://i.imgur.com/6kVi0bY.png/>  
+</p>
+<p>
+ ->MySQL Database: osTicket->MySQL Username: root ->MySQL Password: Password1
+ -> Install Now
+
+</p>
+<p>
+  <img src=https://i.imgur.com/NroaqII.png/>
+</p>
+<p>
+Clean up -> Delete: C:\inetpub\wwwroot\osTicket\setup -> Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php
+
+
+
+
 </p>
