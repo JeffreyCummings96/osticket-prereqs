@@ -101,3 +101,15 @@ install c++ Redistributable
   
 <b>This Configuration is setting up a database on the computer because osTicket needs a database to store tickets onto.</b>
 </p>
+<p>
+<img src=https://i.imgur.com/YIaKOtH.png/>
+</p>
+<p>
+Go to the start searchbar type in "IIS" right click and run as admin in order to register PHP within IIS
+</p>
+<p>
+  <img src=https://i.imgur.com/3rdx21V.png/>
+</p>
+<p>
+  Double Click PHP Manager -> Register New PHP version -> Select the PHP folder in C: Drive  -> PHP Cgi -> Ok
+</p>
