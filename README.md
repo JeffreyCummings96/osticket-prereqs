@@ -45,9 +45,9 @@ check Internet Information Services -> World Wide Web Services -> CGI
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+On Windows Features locate "Common HTTP Features" make sure every box is checked off and then click "Ok"
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After completing the above steps IIS will begin installing, IIS is a web server that OsTicket Runs on.
 </p>
 <br />
