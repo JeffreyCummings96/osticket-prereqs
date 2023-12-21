@@ -81,3 +81,9 @@ To test the connection go to a web browser and type 127.0.0.1 the page should lo
 <p>
   Create the directory C:\PHP on local hard drive 
 </p>
+<p>
+<img src=https://i.imgur.com/LQ8QJAe.png/>  
+</p>
+<p>
+install c++ Redistributable  
+</p>
